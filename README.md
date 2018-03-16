@@ -1,4 +1,1 @@
-#Otsikko
-*kursivoitua*
-**Tummennettua**
-tavallista tekstiä
+#Otsikko# *kursivoitua*, **Tummennettua** ja tavallista tekstiä
